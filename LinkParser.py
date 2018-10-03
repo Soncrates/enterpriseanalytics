@@ -1,5 +1,13 @@
 import requests
+import re
 from bs4 import BeautifulSoup
+
+def _content(url,regex) :
+    source_code = requests.get(url)
+    plain_text = source_code.text
+    soup = BeautifulSoup(plain_text)
+    regex = re.compile(regex, re.IGNORECASE)
+    soup.find_all(string=regex)
 
 def _spider(url) :
     source_code = requests.get(url)
