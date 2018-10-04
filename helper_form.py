@@ -13,6 +13,7 @@ class AUTH :
           verify = 'verify'
           verify = kwargs.pop(verify,verify)
           return requests.get(url, auth=auth, verify=verify)
+          return requests.get(url, auth=auth, params=params, verify=verify,headers=headers)
       @staticmethod
       def post(**kwargs) : 
           url = 'url'
@@ -24,6 +25,7 @@ class AUTH :
           data = 'data'
           data = kwargs.pop(data,data)
           return requests.post(url,auth=auth,data=data,verify=verify)
+          return requests.post(url,auth=auth,data=data,verify=verify,headers=headers)
       @staticmethod
       def transform(response) : 
           return BeautifulSoup(response.text)
