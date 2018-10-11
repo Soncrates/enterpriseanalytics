@@ -1,0 +1,329 @@
+CBSA_Description contains 199 distinct values.
+Company_Name_Upper contains 500 distinct values.
+NAICS05_Description:nan %99.4.
+NAICS05_Description:Claims Adjusting %0.2.
+NAICS05_Description:Wired Telecommunications Carriers %0.2.
+NAICS05_Description:Other Financial Vehicles %0.2.
+CreditCode:C+ %40.6.
+CreditCode:A %11.8.
+CreditCode:B %2.8.
+CreditCode:I %2.2.
+CreditCode:A+ %8.8.
+CreditCode:B+ %33.8.
+Mail_Score_Description:100% Deliverable %100.0.
+CreditScore contains 30 distinct values.
+Minority_Type:nan %95.0.
+Minority_Type:Chinese %0.4.
+Minority_Type:Japanese %0.6.
+Minority_Type:Hispanic %3.4.
+Minority_Type:Indian %0.2.
+Minority_Type:Native American %0.4.
+Zip_5Digit contains 486 distinct values.
+Last_Name contains 460 distinct values.
+Location_Employees_Total contains 71 distinct values.
+Accounting_Expenses_Code:A %26.0.
+Accounting_Expenses_Code:C %14.6.
+Accounting_Expenses_Code:B %22.2.
+Accounting_Expenses_Code:E %9.2.
+Accounting_Expenses_Code:D %25.2.
+Accounting_Expenses_Code:F %2.8.
+Fax contains 500 distinct values.
+ExecType:C %100.0.
+Primary_SIC:8111043 %0.4.
+Primary_SIC:8111025 %0.2.
+Primary_SIC:8111027 %0.2.
+Primary_SIC:8111001 %18.6.
+Primary_SIC:8111034 %0.2.
+Primary_SIC:8111003 %80.4.
+SIC04_Description contains 43 distinct values.
+Number_Of_PCs:10 to 2 %12.4.
+Number_Of_PCs:500 or %0.6.
+Number_Of_PCs:5 to 9 %17.8.
+Number_Of_PCs:25 to 9 %8.2.
+Number_Of_PCs:Up to 4 %57.8.
+Number_Of_PCs:100 to %3.2.
+City2010Population_Code:A %22.8.
+City2010Population_Code:nan %0.2.
+City2010Population_Code:C %14.8.
+City2010Population_Code:B %9.6.
+City2010Population_Code:E %12.4.
+City2010Population_Code:D %16.0.
+City2010Population_Code:F %24.2.
+Rent_Expenses:$5,000 to $9,999 %13.2.
+Rent_Expenses:Up to $2,499 %33.4.
+Rent_Expenses:$100,000 or more %5.0.
+Rent_Expenses:$10,000 to $24,999 %14.6.
+Rent_Expenses:$25,000 to $99,999 %12.2.
+Rent_Expenses:$2,500 to $4,999 %21.6.
+Num_Linked_Locations contains 491 distinct values.
+Telecom_Expenses:Up to $1, %47.4.
+Telecom_Expenses:$5,000 to %13.4.
+Telecom_Expenses:$100,000 %2.6.
+Telecom_Expenses:$2,000 to %20.2.
+Telecom_Expenses:$10,000 t %10.6.
+Telecom_Expenses:$25,000 t %5.8.
+GeoCode_censusblock contains 207 distinct values.
+NAICS06_Description:nan %99.8.
+NAICS06_Description:All Other Professional, Scientific, and Technical Services %0.2.
+Female_Owned contains 474 distinct values.
+Middle_Initial contains 25 distinct values.
+Credit_Description:Very Good %36.6.
+Credit_Description:Good %40.6.
+Credit_Description:Institution %2.2.
+Credit_Description:Excellent %20.6.
+OfficeEquip_Expenses_Code:A %26.0.
+OfficeEquip_Expenses_Code:C %13.2.
+OfficeEquip_Expenses_Code:B %26.2.
+OfficeEquip_Expenses_Code:E %12.2.
+OfficeEquip_Expenses_Code:D %17.0.
+OfficeEquip_Expenses_Code:F %5.4.
+Manufacturing_Location contains 500 distinct values.
+URL contains 341 distinct values.
+Franchise_Type:nan %95.2.
+Franchise_Type:CL %4.8.
+Area_Code contains 208 distinct values.
+Longitude contains 500 distinct values.
+Franchise_Description contains 25 distinct values.
+Year_Established contains 318 distinct values.
+Employees_Total_Desc:100 to 249 %1.0.
+Employees_Total_Desc:50 to 99 %1.0.
+Employees_Total_Desc:5,000 to 9,999 %0.4.
+Employees_Total_Desc:Unknown %94.0.
+Employees_Total_Desc:5 to 9 %0.2.
+Employees_Total_Desc:250 to 499 %0.4.
+Employees_Total_Desc:500 to 999 %0.8.
+Employees_Total_Desc:10,000 or more %0.8.
+Employees_Total_Desc:10 to 19 %0.2.
+Employees_Total_Desc:1,000 to 4,999 %0.6.
+Employees_Total_Desc:20 to 49 %0.6.
+Email_Available_Indicator:1 %100.0.
+County_Code contains 289 distinct values.
+NAICS01_Description:Offices of Lawyers %100.0.
+Selected_SIC:8111043 %0.4.
+Selected_SIC:8111025 %0.2.
+Selected_SIC:8111027 %0.2.
+Selected_SIC:8111001 %18.6.
+Selected_SIC:8111034 %0.2.
+Selected_SIC:8111003 %80.4.
+Home_Based_Indicator contains 485 distinct values.
+Suffix:nan %97.8.
+Suffix:Sr %0.2.
+Suffix:Jr %1.0.
+Suffix:II %0.2.
+Suffix:V %0.2.
+Suffix:III %0.6.
+Production_Date:09/21/2018 %100.0.
+Site_ID contains 500 distinct values.
+Mailing_Address_Standardized contains 498 distinct values.
+Primary_SIC_Description:Attorneys %18.6.
+Primary_SIC_Description:Attorneys Services Bureaus %0.2.
+Primary_SIC_Description:Attorney Referral Services %0.2.
+Primary_SIC_Description:Legal Service Plans %0.2.
+Primary_SIC_Description:Legal Services %0.4.
+Primary_SIC_Description:Law Firms %80.4.
+TollFree contains 500 distinct values.
+Small_Business_Indicator contains 264 distinct values.
+Job_Title contains 22 distinct values.
+Location_Sales_Total contains 390 distinct values.
+NAICS03 contains 493 distinct values.
+Employees_Combined_Desc:100 to 249 %2.6.
+Employees_Combined_Desc:50 to 99 %3.8.
+Employees_Combined_Desc:Unknown %0.6.
+Employees_Combined_Desc:5 to 9 %14.6.
+Employees_Combined_Desc:250 to 499 %0.6.
+Employees_Combined_Desc:500 to 999 %0.4.
+Employees_Combined_Desc:Up to 4 %56.6.
+Employees_Combined_Desc:10,000 or more %0.2.
+Employees_Combined_Desc:10 to 19 %11.6.
+Employees_Combined_Desc:1,000 to 4,999 %0.2.
+Employees_Combined_Desc:20 to 49 %8.8.
+SIC06_Description contains 24 distinct values.
+Credit_Capacity contains 27 distinct values.
+Insurance_Expenses:$20,000 to $49,999 %10.4.
+Insurance_Expenses:Up to $2,499 %34.8.
+Insurance_Expenses:$100,000 or more %4.8.
+Insurance_Expenses:$50,000 to $99,999 %3.4.
+Insurance_Expenses:$2,500 to $7,499 %27.4.
+Insurance_Expenses:$7,500 to $19,999 %19.2.
+Advertising_Expenses_Code:nan %3.2.
+Advertising_Expenses_Code:A %5.2.
+Advertising_Expenses_Code:C %21.2.
+Advertising_Expenses_Code:B %49.4.
+Advertising_Expenses_Code:E %10.8.
+Advertising_Expenses_Code:D %5.6.
+Advertising_Expenses_Code:F %4.6.
+Number_Of_PCs_Code:A %57.8.
+Number_Of_PCs_Code:C %12.4.
+Number_Of_PCs_Code:B %17.8.
+Number_Of_PCs_Code:E %3.2.
+Number_Of_PCs_Code:D %8.2.
+Number_Of_PCs_Code:F %0.6.
+State contains 51 distinct values.
+Square_Footage contains 49 distinct values.
+Franchise_Flag contains 477 distinct values.
+Latitude contains 500 distinct values.
+Mailing_Address_City contains 361 distinct values.
+Email contains 500 distinct values.
+UltimateParentBusinessID contains 500 distinct values.
+ADDRESSID contains 500 distinct values.
+Phone2 contains 500 distinct values.
+NAICS03_Description:nan %95.6.
+NAICS03_Description:All Other Support Services %0.6.
+NAICS03_Description:Offices of Certified Public Accountants %0.6.
+NAICS03_Description:Engineering Services %0.2.
+NAICS03_Description:Investment Advice %0.2.
+NAICS03_Description:Police Protection %0.2.
+NAICS03_Description:Legal Counsel and Prosecution %0.2.
+NAICS03_Description:Direct Property and Casualty Insurance Carriers %0.4.
+NAICS03_Description:Executive Offices %0.2.
+NAICS03_Description:Custom Computer Programming Services %0.2.
+NAICS03_Description:Other General Government Support %0.2.
+NAICS03_Description:Direct Title Insurance Carriers %0.4.
+NAICS03_Description:Public Finance Activities %0.2.
+NAICS03_Description:Other Building Material Dealers %0.2.
+NAICS03_Description:Miscellaneous Financial Investment Activities %0.4.
+NAICS03_Description:Sports and Recreation Instruction %0.2.
+Legal_Expenses_Code:A %19.8.
+Legal_Expenses_Code:nan %3.2.
+Legal_Expenses_Code:C %13.8.
+Legal_Expenses_Code:B %26.4.
+Legal_Expenses_Code:E %15.8.
+Legal_Expenses_Code:D %12.8.
+Legal_Expenses_Code:F %8.2.
+Technology_Expenses_Code:A %31.8.
+Technology_Expenses_Code:C %13.2.
+Technology_Expenses_Code:B %22.0.
+Technology_Expenses_Code:E %12.0.
+Technology_Expenses_Code:D %15.8.
+Technology_Expenses_Code:F %5.2.
+City2010Population:nan %0.2.
+City2010Population:100,000 to 249,999 %16.0.
+City2010Population:Up to 24,999 %22.8.
+City2010Population:50,000 to 99,999 %14.8.
+City2010Population:25,000 to 49,999 %9.6.
+City2010Population:250,000 to 499,999 %12.4.
+City2010Population:500,000 or more %24.2.
+Insurance_Expenses_Code:A %34.8.
+Insurance_Expenses_Code:C %19.2.
+Insurance_Expenses_Code:B %27.4.
+Insurance_Expenses_Code:E %3.4.
+Insurance_Expenses_Code:D %10.4.
+Insurance_Expenses_Code:F %4.8.
+Location_Sales_Code:A %37.2.
+Location_Sales_Code:C %17.6.
+Location_Sales_Code:B %19.4.
+Location_Sales_Code:E %7.6.
+Location_Sales_Code:D %8.2.
+Location_Sales_Code:G %0.6.
+Location_Sales_Code:F %5.8.
+Location_Sales_Code:H %0.6.
+Location_Sales_Code:J %0.2.
+Location_Sales_Code:U %2.8.
+Telecom_Expenses_Code:A %47.4.
+Telecom_Expenses_Code:C %13.4.
+Telecom_Expenses_Code:B %20.2.
+Telecom_Expenses_Code:E %5.8.
+Telecom_Expenses_Code:D %10.6.
+Telecom_Expenses_Code:F %2.6.
+DPCheckDigit:0.0 %9.0.
+DPCheckDigit:1.0 %9.2.
+DPCheckDigit:2.0 %10.0.
+DPCheckDigit:3.0 %8.2.
+DPCheckDigit:4.0 %12.0.
+DPCheckDigit:5.0 %7.8.
+DPCheckDigit:6.0 %10.0.
+DPCheckDigit:7.0 %10.0.
+DPCheckDigit:8.0 %10.0.
+DPCheckDigit:9.0 %13.2.
+DPCheckDigit:nan %0.2.
+DPCheckDigit:nan %0.2.
+DPCheckDigit:nan %0.2.
+SIC03_Description contains 43 distinct values.
+
+Accounting_Expenses:$100,000 or more %2.8.
+Accounting_Expenses:$25,000 to $99,999 %9.2.
+Accounting_Expenses:$5,000 to $24,999 %25.2.
+Accounting_Expenses:$1,000 to $2,499 %22.2.
+Accounting_Expenses:$2,500 to $4,999 %14.6.
+Accounting_Expenses:Up to $999 %26.0.
+Utilities_Expenses_Code:A %37.2.
+Utilities_Expenses_Code:C %17.4.
+Utilities_Expenses_Code:B %27.8.
+Utilities_Expenses_Code:E %3.2.
+Utilities_Expenses_Code:D %10.2.
+Utilities_Expenses_Code:F %4.2.
+Years_In_Business:1 %0.8.
+Years_In_Business:2 %0.6.
+Years_In_Business:3 %1.4.
+Years_In_Business:4 %1.0.
+Years_In_Business:5 %1.8.
+Years_In_Business:6 %18.2.
+Years_In_Business:7 %0.4.
+Years_In_Business:8 %2.0.
+Years_In_Business:9 %18.6.
+Years_In_Business:10 %55.2.
+OfficeEquip_Expenses:$5,000 to $9,999 %13.2.
+OfficeEquip_Expenses:Up to $1,999 %26.0.
+OfficeEquip_Expenses:$100,000 or more %5.4.
+OfficeEquip_Expenses:$10,000 to $24,999 %17.0.
+OfficeEquip_Expenses:$25,000 to $99,999 %12.2.
+OfficeEquip_Expenses:$2,000 to $4,999 %26.2.
+Legal_Expenses:nan %3.2.
+Legal_Expenses:$15,000 to $24,999 %12.8.
+Legal_Expenses:Up to $2,499 %19.8.
+Legal_Expenses:$100,000 or more %8.2.
+Legal_Expenses:$2,500 to $7,499 %26.4.
+Legal_Expenses:$25,000 to $99,999 %15.8.
+Legal_Expenses:$7,500 to $14,999 %13.8.
+Utilities_Expenses:$20,000 to $49,999 %10.2.
+Utilities_Expenses:Up to $2,499 %37.2.
+Utilities_Expenses:$100,000 or more %4.2.
+Utilities_Expenses:$50,000 to $99,999 %3.2.
+Utilities_Expenses:$2,500 to $7,499 %27.8.
+Utilities_Expenses:$7,500 to $19,999 %17.4.
+Mailing_Address_DPCheckDigit:0 %9.2.
+Mailing_Address_DPCheckDigit:1 %9.8.
+Mailing_Address_DPCheckDigit:2 %8.8.
+Mailing_Address_DPCheckDigit:3 %9.2.
+Mailing_Address_DPCheckDigit:4 %12.2.
+Mailing_Address_DPCheckDigit:5 %8.6.
+Mailing_Address_DPCheckDigit:6 %10.4.
+Mailing_Address_DPCheckDigit:7 %9.4.
+Mailing_Address_DPCheckDigit:8 %10.0.
+Mailing_Address_DPCheckDigit:9 %12.4.
+TimeZone:Central Time %26.6.
+TimeZone:Pacific Time %19.0.
+TimeZone:Hawaii Time %0.4.
+TimeZone:Eastern Time %48.2.
+TimeZone:Alaska Time %0.2.
+TimeZone:Mountain Time %5.6.
+Gender:U %6.6.
+Gender:M %75.4.
+Gender:F %18.0.
+DeliveryPoint contains 91 distinct values.
+Years_In_Business_Range:Up to 2 Years %1.4.
+Years_In_Business_Range:3 to 5 Years %4.2.
+Years_In_Business_Range:6 to 9 Years %39.2.
+Years_In_Business_Range:10 or More Years %55.2.
+Technology_Expenses:$5,000 to $9,999 %13.2.
+Technology_Expenses:Up to $2,499 %31.8.
+Technology_Expenses:$100,000 or more %5.2.
+Technology_Expenses:$10,000 to $24,999 %15.8.
+Technology_Expenses:$25,000 to $99,999 %12.0.
+Technology_Expenses:$2,500 to $4,999 %22.0.
+Rent_Expenses_Code:A %33.4.
+Rent_Expenses_Code:C %13.2.
+Rent_Expenses_Code:B %21.6.
+Rent_Expenses_Code:E %12.2.
+Rent_Expenses_Code:D %14.6.
+Rent_Expenses_Code:F %5.0.
+Location_Employee_Code:A %56.6.
+Location_Employee_Code:C %11.6.
+Location_Employee_Code:B %14.4.
+Location_Employee_Code:E %3.6.
+Location_Employee_Code:D %9.0.
+Location_Employee_Code:G %0.6.
+Location_Employee_Code:F %2.8.
+Location_Employee_Code:H %0.6.
+Location_Employee_Code:U %0.8.
+
